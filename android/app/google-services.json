@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "764964880445",
+    "project_id": "yam1-3e4b5",
+    "storage_bucket": "yam1-3e4b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764964880445:android:07699e6b60bb8845626a54",
+        "android_client_info": {
+          "package_name": "com.yam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764964880445-huepu3nhm9vco2jhtj4sn4bt0b8fvnkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADv5gjuPy7zz7usOt3mS0aZV-prwQYVjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764964880445-huepu3nhm9vco2jhtj4sn4bt0b8fvnkg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
